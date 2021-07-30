@@ -1,0 +1,26 @@
+.submit-area, .enter-amount{
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+.enter-amount{
+    margin: 40px;
+}
+#transaction-area{
+    display: none;
+}
+.box{
+    color: white;
+    margin: 40px;
+    padding: 40px;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightpink;
+}
+.balance{
+    background-color: orange;
+}
